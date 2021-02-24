@@ -1,4 +1,4 @@
-service: todo-app
+service: sample-serverless-todo-app
 
 frameworkVersion: "2"
 
